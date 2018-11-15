@@ -1,0 +1,20 @@
+{
+  "name": "nodetwo",
+  "version": "1.0.0",
+  "description": "Test two to develop a nodejs web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "mongoose",
+    "demo"
+  ],
+  "author": "Abhijit Kazi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.3.12"
+  }
+}
